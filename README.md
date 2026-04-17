@@ -7,7 +7,7 @@ Compiled for Android.  I use it for mounting SMB shares system wide.
 https://github.com/NewFuture/rclone-fuse3-magisk
 
 ## Root Instructions for MagicX One 35
-**Prerequisites:** ADB/fastboot installed, MTK USB drivers, Magisk APK
+***ALL DATA WILL BE DESTROYED IN THIS PROCESS***
 
 1. Enable Developer Options (tap Build Number 7x), turn on USB Debugging + OEM Unlocking
 2. `adb shell getprop ro.boot.slot_suffix` — note whether you're on `_a` or `_b`
