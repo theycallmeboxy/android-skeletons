@@ -4,7 +4,7 @@ Android skeletons from my closet
 ## Universal Android Debloater
 Get rid of Google stuff
 
-https://github.com/0x192/universal-android-debloater
+https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
 
 ## Rclone + Fuse
 Compiled for Android.  I use it for mounting SMB shares system wide.
