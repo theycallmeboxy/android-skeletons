@@ -1,0 +1,602 @@
+{
+  "device_id": "0123456789ABCDEF",
+  "users": [
+    {
+      "id": 0,
+      "packages": [
+        {
+          "name": "android",
+          "state": "Enabled"
+        },
+        {
+          "name": "android.auto_generated_rro_product__",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.backupconfirm",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.bips",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.bluetooth",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.bluetoothmidiservice",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.bookmarkprovider",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.calendar",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.calllogbackup",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.cameraextensions",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.carrierconfig",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.certinstaller",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.chrome",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.companiondevicemanager",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.cts.ctsshim",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.cts.priv.ctsshim",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.deskclock",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.dreams.basic",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.dynsystem",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.egg",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.emergency",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.externalstorage",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.gallery3d",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.htmlviewer",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.inputdevices",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.corner",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.double",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.hole",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.tall",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.display.cutout.emulation.waterfall",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.systemui.navbar.gestural",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.systemui.navbar.gestural_narrow_back",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.systemui.navbar.gestural_wide_back",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.systemui.navbar.threebutton",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.internal.systemui.onehanded.gestural",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.keychain",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.launcher3",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.localtransport",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.location.fused",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.managedprovisioning",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.mms.service",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.mtp",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.musicfx",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.networkstack.tethering.inprocess.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.networkstack.tethering.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.nfc",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.ons",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.pacprocessor",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.phone",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.printspooler",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.blockednumber",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.calendar",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.providers.contacts",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.providers.downloads",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.downloads.ui",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.providers.media",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.partnerbookmarks",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.providers.settings",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.telephony",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.providers.userdictionary",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.provision",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.proxyhandler",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.se",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.server.telecom",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.settings",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.settings.intelligence",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.sharedstoragebackup",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.shell",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.simappdialog",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.soundpicker",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.statementservice",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.systemui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.theme.font.notoserifsource",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.traceur",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.vending",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.android.vpndialogs",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wallpaper.livepicker",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wallpaperbackup",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wallpapercropper",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wallpaperpicker",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wifi.mainline.resources.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.android.wifi.resources.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.apps.nbu.files",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.apps.restore",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.captiveportallogin",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.cellbroadcastreceiver",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.cellbroadcastservice",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.configupdater",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.connectivity.resources",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.documentsui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.ext.services",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.ext.shared",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.feedback",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.gms",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.gms.location.history",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.gsf",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.hotspot2.osulogin",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.inputmethod.latin",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.modulemetadata",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.networkstack",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.networkstack.permissionconfig",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.networkstack.tethering",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.networkstack.tethering.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.onetimeinitializer",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.gmsconfig.common",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.gmsconfig.gsa",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.documentsui",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.ext.services",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.permissioncontroller",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.packageinstaller",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.partnersetup",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.permissioncontroller",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.printservice.recommendation",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.providers.media.module",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.syncadapters.contacts",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.google.android.webview",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.wifi.resources",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.android.wifi.resources.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.cellbroadcastuiresoverlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.google.mainline.telemetry",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.batterywarning",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.capctrl.service",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.duraspeed",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.frameworkresoverlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.FrameworkResOverlayExt",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.gbaservice",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek.gnss.nonframeworklbs",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek.lbs.em2.ui",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek.location.lppe.main",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek.miravision.ui",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek.MtkSettingsResOverlay",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek.MtkTelephonyServiceResOverlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.networkstack.gooverlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.networkstack.inprocess.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.networkstack.nongooverlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.networkstack.overlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.mediatek.SettingsProviderResOverlay",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek.simprocessor",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek.systemuiresoverlay",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.mediatek.tabletframeworkresoverlay",
+          "state": "Enabled"
+        },
+        {
+          "name": "com.neviewtech.gameassistant",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.neviewtech.touchmapping",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.neviewtech.update",
+          "state": "Uninstalled"
+        },
+        {
+          "name": "com.nstart.cit",
+          "state": "Uninstalled"
+        }
+      ]
+    }
+  ]
+}

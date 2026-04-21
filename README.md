@@ -1,13 +1,25 @@
 # Android Skeletons
 Android skeletons from my closet
 
-## Universal Android Debloater
-Get rid of Google stuff
+## Universal Android Debloater ng
+Get rid of Google stuff and probably break some stuff.
+
+A file for the One35 is included in the codebase.  It is intended to be ran after a factory reset.
+
+Keep in mind this will leave your device pretty barebones, so make sure you can use ADB to push the apps you need.  Chrome will be disabled so if you need a browser for things on device, download Firefox or something.
 
 https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
 
 ## Rclone + Fuse
 Compiled for Android.  I use it for mounting SMB shares system wide.
+
+Install the module, hit action button to start web server, set up a remote, restart device.
+
+The module will automagically create a mount you can find in /sdcard/remote-name.
+
+There are a lot on environment variables that can be tweaked.
+
+Be mindful of the read cache settings because it can go restrained.
 
 https://github.com/NewFuture/rclone-fuse3-magisk
 
